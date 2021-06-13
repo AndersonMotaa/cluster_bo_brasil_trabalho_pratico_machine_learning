@@ -9,4 +9,5 @@ Na etapa de análise dos dados foi observado que alguns  crimes tinham forte rel
 *    Furto de veículo e roubo de veículo;
 *    Furto de veículo e roubo de carga;
 *    Latrocínio e homicídio doloso.
+
 E foi plotado um gráfico de barras para identificar o estado brasileiro com maior número de no qual foi constatado que São Paulo foi o estado com o maior número de ocorrências. Na clusterização o valor de Kmeans com maior score foi 2, apresentando grande diferença dos demais e na criação dos clusters o estado de São Paulo por ter um número muito alto de ocorrências acabou ficando sozinho em um cluster.
